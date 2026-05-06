@@ -34,4 +34,4 @@ cd Stocastic_Modeling_Markov_Chain
 pip install -r requirements.txt
 
 # launch the Notebook
-jupyter notebook markov_analysis.ipynb
+jupyter notebook stocastic_modeling_markov_chains.ipynb
