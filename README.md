@@ -23,7 +23,9 @@ Customers were categorized into discrete states based on their contract type and
 * `README.md`: Project documentation and mathematical overview.
 
 ## Installation & Usage
-To run the Jupyter Notebook locally, ensure you have Python installed, then install the required dependencies:
+To run the Jupyter Notebook locally, ensure you have Python installed, then install the required dependencies:No
+
+### Notebook view for a quick access: https://colab.research.google.com/drive/1GvMkK2jGG4y9OkdU2pNpPZ-Pw6knsvn6?usp=sharing
 
 ```bash
 # Clone the repository
